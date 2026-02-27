@@ -1,14 +1,14 @@
 # Netflix-Data-Analysis
 This project performs Exploratory Data Analysis (EDA) on the Netflix dataset to uncover insights about content distribution, trends, and patterns using Python.
 
-🛠 Technologies Used
+🛠 Technologies Used:-
 Python
 Pandas
 Matplotlib
 NumPy
 Google Colab
 
-📂 Dataset
+📂 Dataset:-
 The dataset contains information about Netflix Movies and TV Shows including:
 Title
 Director
@@ -20,7 +20,7 @@ Duration
 Genre (Listed_in)
 Type (Movie / TV Show)
 
-📈 Key Analysis Performed
+📈 Key Analysis Performed:-
 Distribution of Movies vs TV Shows
 Content release trend over the years
 Top countries producing Netflix content
