@@ -5,7 +5,7 @@ This project performs Exploratory Data Analysis (EDA) on the Netflix dataset to 
 Python
 Pandas
 Matplotlib
-NumPy
+Seaborn
 Google Colab
 
 📂 Dataset:-
