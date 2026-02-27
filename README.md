@@ -10,14 +10,14 @@ Google Colab
 
 📂 Dataset:-
 The dataset contains information about Netflix Movies and TV Shows including:
-Title
-Director
-Cast
-Country
-Release Year
-Rating
-Duration
-Genre (Listed_in)
+Title,
+Director,
+Cast,
+Country,
+Release Year,
+Rating,
+Duration,
+Genre (Listed_in),
 Type (Movie / TV Show)
 
 📈 Key Analysis Performed:-
