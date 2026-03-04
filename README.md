@@ -1,4 +1,5 @@
 # Netflix-Data-Analysis
+![image alt](https://github.com/creator-mindset/Netflix-Data-Analysis/blob/main/Netflix%20Image.png?raw=true)
 This project performs Exploratory Data Analysis (EDA) on the Netflix dataset to uncover insights about content distribution, trends, and patterns using Python.
 
 🛠 Technologies Used:-
